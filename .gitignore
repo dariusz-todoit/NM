@@ -32,3 +32,5 @@ www-test/
 RemoteSystemsTempFiles
 
 .settings
+
+/bin/
