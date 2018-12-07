@@ -16,10 +16,14 @@ import com.google.gwt.user.client.ui.RootPanel;
 import com.google.gwt.user.client.ui.TextArea;
 import com.google.gwt.user.client.ui.VerticalPanel;
 
+import com.example.Message;
+import com.example.Project;
+
+
 
 public class NM implements EntryPoint {
 
-  private MessageServiceAsync messageService = GWT.create(MessageService.class);
+	private MessageServiceAsync messageService = GWT.create(MessageService.class);
   private ArrayList<Message> messageList = new ArrayList<Message> ();
   private ArrayList<Project> projectList = new ArrayList<Project> ();
   
