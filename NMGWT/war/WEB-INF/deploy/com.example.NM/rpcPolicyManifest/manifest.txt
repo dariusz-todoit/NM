@@ -1,2 +1,3 @@
 # Module com.example.NM
 # RPC service class, partial path of RPC policy file
+com.example.client.MessageService, D0A663AF2CC6E4A429BA36B3C2E9A63B.gwt.rpc
